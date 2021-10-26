@@ -8,7 +8,7 @@ void zerowa(float a, float b)
 
 	cout << "\n\nTwoja funkcja ma postac "<< a <<"x + (" << b << ") = 0"<< endl;
 	
-	/*if(a==0 && b!=0)
+	if(a==0 && b!=0)
 	{
 		cout<<"\n\nNie mozna utworzyc funkji liniowej z podanymi parametrami!"<< endl;
 	}
@@ -17,7 +17,7 @@ void zerowa(float a, float b)
 	{
 		cout << "\n\nFunkcja ma nieskonczenie wiele miejsc zerowych"<<endl;
 	}
-	*/
+	
 	if(a=!0)
 	{
 		if(b==0)
