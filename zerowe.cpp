@@ -33,7 +33,7 @@ void zerowa(float a, float b)
 		cout << "\n\nMiejsce zerowe twojej funkcji to: " << wartosc << endl;
 	}		
 } 
-
+///
 int main()
 {
 	float a, b;
