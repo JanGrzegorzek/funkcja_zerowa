@@ -18,17 +18,17 @@ void zerowa(float a, float b)
 		cout << "\n\nFunkcja ma nieskonczenie wiele miejsc zerowych"<<endl;
 	}
 	
-	if(a=!0)
+	else
 	{
-		if(b==0)
+		/*if(b==0)
 		{
 			wartosc = 0;
 		}
-		
-		else
-		{
+		*/
+		//else
+		//{
 			wartosc = -b/a;	
-		}
+		//}
 		 
 		cout << "\n\nMiejsce zerowe twojej funkcji to: " << wartosc << endl;
 	}		
