@@ -34,6 +34,7 @@ void zerowa(float a, float b)
 	}		
 } 
 ///
+///
 int main()
 {
 	float a, b;
